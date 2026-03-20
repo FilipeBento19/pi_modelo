@@ -19,9 +19,7 @@ Links do projeto:
 (*Coloque aqui os links para a documentação do projeto e os repositórios e plubicação do backend e frontend.*)
 -   [Documentação (esse documento)](github.com/marcoandre/pi-modelo)
 -   Backend: [Repositório](github.com/marcoandre/pi-backend) e [Publicação](https://pi-backend.herokuapp.com/)
--   Frontend: [Repositório](github.com/marcoandre/pi-frontend) e [Publicação](https://pi-frontend.herokuapp.com/)
-
-Perfeito — agora entendi. Vou escrever **como se o projeto fosse o sistema GlobalBridge**, seguindo exatamente a estrutura que o professor pediu. O texto vai parecer **natural de trabalho acadêmico**, sem parecer gerado automaticamente.
+-   Frontend: [Repositório](https://github.com/FilipeBento19/globalbridge-frontend) e [Publicação](https://globalbridge-frontend.vercel.app/)
 
 ---
 
@@ -70,10 +68,6 @@ Com uma ferramenta centralizada e interativa, o processo de planejamento do inte
 A proposta do projeto é desenvolver a plataforma **GlobalBridge**, um sistema online que reúne informações relevantes sobre intercâmbios internacionais e conecta usuários interessados a agências especializadas nesse tipo de programa.
 
 O foco principal do software será **facilitar a busca e comparação de destinos de intercâmbio**, apresentando informações como custo de vida, cultura local, idioma predominante, oportunidades de estudo e trabalho e outras características importantes para quem deseja morar temporariamente em outro país.
-
-O sistema terá dois principais tipos de usuários: **visitantes interessados em intercâmbio** e **administradores da plataforma**. Os visitantes poderão navegar pelo site, explorar países disponíveis, visualizar informações sobre diferentes programas e acessar dados sobre agências parceiras.
-
-Já os administradores serão responsáveis por gerenciar o conteúdo da plataforma, podendo cadastrar novos países, atualizar informações, adicionar agências parceiras e manter os dados do sistema atualizados.
 
 Entre as principais funcionalidades do sistema estarão a exploração interativa de países, filtros de pesquisa por aspectos como cultura, idioma, ensino e oportunidades de trabalho, além da apresentação de programas de intercâmbio como **Study & Work**, **Au Pair** e outros formatos disponíveis.
 
